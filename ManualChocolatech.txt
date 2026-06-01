@@ -1,0 +1,202 @@
+MANUAL DEL COLABORADOR Y POLÍTICAS DE RECURSOS HUMANOS - CHOCOLATECH
+Versión 3.0 - Actualizada en enero de 2026
+
+1. INTRODUCCIÓN Y CULTURA DE EMPRESA 
+Bienvenido a ChocolaTech. Este manual tiene como objetivo presentar las políticas, directrices y beneficios ofrecidos a nuestros colaboradores. 
+
+ChocolaTech es una empresa de tecnología enfocada en soluciones en la nube e inteligencia artificial, con la misión de democratizar el acceso a la tecnología de punta para las pequeñas y medianas empresas. 
+
+Nuestros valores fundamentales son: innovación continua, respeto por la diversidad, transparencia radical y enfoque en el cliente. 
+
+Esperamos que todos los colaboradores lean este manual atentamente, pues sirve como la guía principal para la resolución de dudas cotidianas sobre su jornada con nosotros. 
+
+El Departamento de Recursos Humanos (People & Culture) está disponible de lunes a viernes, de 09:00 a 18:00, a través del e-mail rh@chocolatech.com.br o por el portal de llamadas internas.
+
+2. JORNADA DE TRABAJO Y REGISTRO DE PUNTOS 
+La jornada laboral estándar en ChocolaTech es de 40 (cuarenta) horas semanales, distribuidas de lunes a viernes. El horario estándar de trabajo es de 09:00 a 18:00, con 1 (una) hora de descanso para comer y descansar. 
+
+El descanso para el almuerzo debe ser disfrutado preferentemente entre las 12:00 y las 14:00. ChocolaTech adopta un modelo de horario flexible. 
+
+El colaborador puede iniciar su jornada entre las 07:00 y las 10:00, siempre que cumpla las 8 horas diarias y esté presente en el "Core Hours" (horario central de colaboración), que es de 10:00 a 16:00. 
+
+El registro de puntos es obligatorio para todos los colaboradores en el régimen CLT (excepto cargos de confianza/gestión). 
+
+El registro debe hacerse a través de la aplicación "ChocoPonto" en el smartphone del colaborador o vía web. 
+
+Se deben registrar 4 (cuatro) citas diarias: entrada, salida para el almuerzo, regreso del almuerzo y salida final. 
+
+El no registro de punto por más de 3 días consecutivos sin justificación formal implicará en una advertencia verbal.
+
+3. BANCO DE HORAS Y HORAS EXTRAS
+La empresa adopta el sistema de Banco de Horas, con validez de 6 (seis) meses. 
+
+Todas las horas trabajadas en exceso se convierten en tiempo libre compensatorio en la proporción de 1 hora trabajada a 1 hora libre (días laborables) o 1 hora trabajada a 1,5 hora libre (si se trabaja los domingos y festivos).
+
+La realización de horas extras debe ser previamente autorizada por el gestor directo vía e-mail o sistema interno. No se permite realizar más de 2 (dos) horas extras por día.
+
+El saldo del Banco de Horas puede ser consultado en cualquier momento en el portal del colaborador. 
+
+Al final del semestre (junio y diciembre), si el colaborador tiene un saldo positivo que no pudo ser compensado en tiempo libre, estas horas serán pagadas en la nómina del mes siguiente con los debidos incrementos legales (50% o 100%).
+
+4. MODELO DE TRABAJO (PRESENCIAL, HÍBRIDO Y REMOTO)
+ChocolaTech opera en tres modalidades de trabajo, definidas contractualmente según el área de actuación:
+   * Modelo presencial: 5 días a la semana en la oficina física. Exclusivo para equipos de Facilities, Recepción y Soporte de TI Físico.
+   * Modelo Híbrido: Requiere la presencia en la oficina de São Paulo por 2 (dos) días a la semana (martes y jueves preferentemente) y 3 (tres) días en home office.
+   * Modelo Remoto (Anywhere Office): El colaborador puede trabajar 100% de casa, desde cualquier ciudad de Brasil. Se requiere que el colaborador tenga una conexión a internet de al menos 100 Mbps y un ambiente adecuado y silencioso para el trabajo.
+
+Para los colaboradores en los modelos Híbrido y Remoto, la empresa proporciona un portátil de última generación, monitor extra de 24 pulgadas, teclado, ratón, auricular y silla ergonómica. El equipo debe ser devuelto en perfecto estado en caso de desconexión.
+
+5. POLÍTICA DE VACACIONES Y RECESOS (MUY IMPORTANTE)
+Todos los empleados contratados bajo el régimen CLT tienen derecho a 30 (treinta) días de vacaciones remuneradas después de completar 12 (doce) meses de trabajo en la empresa (período de adquisición).
+
+* Cómo solicitar las vacaciones: La solicitud debe hacerse a través del sistema de RH con al menos 45 (cuarenta y cinco) días de antelación a la fecha deseada de inicio, para aprobación del gerente directo.
+* Reglas de pago fraccionado: Las vacaciones de 30 días pueden ser disfrutadas en un solo período o fraccionadas en hasta 3 (tres) períodos.
+* Si el empleado opta por fraccionar sus vacaciones, se aplican las siguientes reglas impuestas por la ley y por la empresa:
+         - Uno de los períodos de vacaciones no podrá ser inferior a catorce (14) días naturales.
+         - Los demás períodos de vacaciones no podrán ser inferiores a cinco (5) días naturales cada uno.
+* Comienzo de las vacaciones: queda terminantemente prohibido el inicio de las vacaciones en los dos días previos al día festivo o al día de descanso semanal remunerado (sábado y domingo). Por lo tanto, las vacaciones deben comenzar preferiblemente entre el lunes y el jueves.
+* Bono Pecuniario (Venta de vacaciones): El colaborador puede optar por "vender" 1/3 de sus vacaciones (10 días). Esta solicitud debe hacerse hasta 15 días antes del vencimiento del período de adquisición.
+* Remuneración: El pago de las vacaciones, más el tercio constitucional (1/3), se efectuará en la cuenta bancaria del colaborador hasta 2 (dos) días antes del inicio del período de descanso.
+* Receso de fin de año: ChocolaTech concede un receso corporativo entre los días 26 y 31 de diciembre. Estos días son días libres concedidos por la empresa y no se descontarán del saldo de vacaciones del colaborador.
+
+6. PAQUETE DE BENEFICIOS CORPORATIVOS 
+ChocolaTech se enorgullece de ofrecer un paquete de beneficios competitivo para cuidar el bienestar de sus empleados. Los beneficios se activan desde el primer día de trabajo.
+
+6.1. Vale Comida (VR) y Vale Alimentación (VA)
+Proporcionamos una tarjeta de beneficios flexibles (bandera Caju o Flash). El valor acreditado mensualmente es de R$ 1.500,00 (mil quinientos reales).
+
+El colaborador puede dividir este valor entre la cartera de Comida (restaurantes y apps de delivery) y Alimentación (supermercados) directamente en la aplicación de la tarjeta flexible, hasta el día 20 de cada mes para el mes siguiente. No hay descuento en la nómina para este beneficio.
+
+6.2. Plan de Salud 
+La empresa ofrece el seguro de salud de la operadora CacauSaude (Plan Especial Más), con cobertura nacional, alojamiento en apartamento y sin coparticipación para consultas y exámenes básicos. 
+
+ChocolaTech subvenciona el 100% de la mensualidad del colaborador titular. 
+
+Inclusión de Dependientes: Se permite la inclusión de cónyuge e hijos (hasta 24 años si estudiantes). 
+
+La empresa subsidia el 50% de la mensualidad de los dependientes, siendo el otro 50% descontado en la nómina del colaborador titular.
+
+6.3. Plan Odontológico Ofrecemos plan odontológico Cacau Dental (Plan Premium). El plan es 100% gratuito para el colaborador titular y sus dependientes directos (cónyuge e hijos). 
+
+Cubre tratamientos de canal, extracciones, limpiezas, rayos X y documentación ortodóntica. 
+
+No cubre procedimientos estéticos como el blanqueamiento.
+
+6.4. Ayuda Home Office 
+Para los empleados registrados en el modelo Híbrido o Remoto, ChocolaTech deposita mensualmente una Ayuda Home Office por valor de R$ 250,00 (doscientos cincuenta reales) directamente en la nómina. 
+
+Esta cantidad está exenta de impuestos y se destina a ayudar con los costos de internet y energía eléctrica.
+
+6.5. Gympass (Wellhub)
+La empresa tiene una asociación con Gympass. El colaborador tiene acceso a gimnasios y aplicaciones de bienestar. 
+
+ChocolaTech subvenciona el plan "Basic" íntegramente. Si el empleado desea actualizar a planes superiores (Silver, Gold, Platinum), la diferencia se descontará en la nómina.
+
+6.6. Ayuda a la guardería / niñera
+Los empleados que tienen hijos con edad entre 0 (cero) y 60 (sesenta) meses tienen derecho a la ayuda de guardería por el valor de R$ 600,00 (seiscientos reales) al mes, por hijo. 
+
+Para recibir el beneficio, es necesario presentar el comprobante de inscripción en la guardería o el recibo de pago de la niñera con el debido registro.
+
+7. POLÍTICA DE LICENCIAS Y DE PERMISOS
+ChocolaTech garantiza todas las licencias previstas en la ley y ofrece plazos extendidos como parte de nuestra cultura de acogida. 
+
+Las ausencias deben ser comunicadas inmediatamente al gestor y el certificado/comprobante debe ser enviado al RH en 48 horas.
+
+7.1. Permiso de maternidad
+Como empresa integrante del programa "Empresa Ciudadana", ChocolaTech otorga Licencia de maternidad extendida de 180 (ciento ochenta) días consecutivos, sin perjuicio del salario. 
+
+El permiso puede comenzar hasta 28 días antes del parto o desde la fecha de nacimiento del bebé.
+
+La colaboradora también tiene derecho a un retorno gradual al trabajo: en el primer mes de regreso (7o mes), la jornada será reducida a 6 horas diarias, sin reducción salarial, para facilitar la adaptación.
+
+7.2. Licencia por paternidad
+También por el programa "Empresa Ciudadana", la Licencia de Paternidad (o para el segundo cuidador en caso de parejas homoafectivas) se extiende a 20 (veinte) días corridos, contados a partir del día laborable siguiente al nacimiento o adopción.
+
+7.3. Licencia de matrimonio (Gala)
+El colaborador tiene derecho a 5 (cinco) días hábiles consecutivos de ausencia remunerada en virtud de su matrimonio. El plazo comienza a contar el primer día hábil siguiente a la fecha del matrimonio civil o religioso. Se requiere la presentación del certificado de matrimonio.
+
+7.4. Licencia Nojo (Luto)
+En caso de fallecimiento de cónyuge, ascendiente (padres, abuelos), descendiente (hijos, nietos) o hermano, el colaborador tiene derecho a 5 (cinco) días corridos de licencia, contados a partir del día del fallecimiento.
+
+7.5. Ausencias médicas y certificados
+Las ausencias por motivos de salud deben justificarse con certificado médico que contenga CRM, firma del médico y preferiblemente el CID. 
+
+Los certificados de hasta 14 días son generados por la empresa. A partir del 15o día consecutivo de alejamiento por el mismo motivo, el colaborador será encaminado al INSS.
+
+El colaborador también tiene derecho a ausentarse 2 (dos) días por año para acompañar al hijo(a) menor de 6 años en consulta médica, previa presentación del certificado de acompañante.
+
+8. CÓDIGO DE CONDUCTA Y ÉTICA EN EL AMBIENTE DE TRABAJO 
+La ChocolaTech valora un entorno de trabajo seguro, respetuoso y libre de prejuicios. 
+
+Código de vestimenta (Dress Code): Nuestro ambiente es casual. Bermudas, camisetas y zapatillas son permitidas en la oficina física. 
+
+Evita la ropa con mensajes políticos, ofensivos o excesivamente informales (como los trajes de baño). 
+
+Para reuniones presenciales con clientes corporativos, se recomienda el uso de traje deportivo fino. Acoso y discriminación: ChocolaTech tiene tolerancia CERO para cualquier forma de discriminación (raza, género, orientación sexual, religión, edad o discapacidad) y acoso (moral o sexual). 
+
+Cualquier violación dará lugar a severas medidas disciplinarias, pudiendo llegar a la destitución por justa causa. 
+
+Canal de denuncias: Contamos con un canal de denuncias anónimo gestionado por una empresa tercerizada independiente. 
+
+El canal está disponible las 24 horas al teléfono 0800-999-0000 o en el sitio web https://www.google.com/search?q=eticachocolatech.com.br. 
+
+Todas las denuncias son investigadas por el Comité de Ética de forma confidencial.
+
+9. POLÍTICA DE SEGURIDAD DE LA INFORMACIÓN Y USO DEL EQUIPO
+Los equipamientos suministrados (portátiles, monitores, teléfonos móviles corporativos) son propiedad de ChocolaTech y están destinados al uso estrictamente profesional.
+
+La instalación de software pirateado, juegos o aplicaciones no homologados por el equipo de TI está terminantemente prohibida. 
+
+El acceso a sitios con contenido para adultos, juegos de azar o que violen la ley está bloqueado y monitoreado.
+
+Contraseñas: El colaborador debe cambiar sus contraseñas de acceso cada 90 días. Está prohibido compartir contraseñas personales con colegas o anotar contraseñas en lugares visibles.
+
+Confidencialidad: Todos los datos de clientes, códigos fuente, estrategias comerciales e informes financieros se consideran información confidencial. 
+
+La filtración de datos corporativos somete al empleado a sanciones legales y despido inmediato.
+
+Para acceder a la red de la empresa fuera de la oficina física, es obligatorio el uso de la VPN corporativa instalada en las máquinas.
+
+10. EVALUACIÓN DE DESEMPEÑO Y DESARROLLO 
+La ChocolaTech cree en el crecimiento continuo de sus talentos. El ciclo de evaluación del desempeño se realiza dos veces al año (marzo y septiembre). 
+
+La evaluación se basa en el modelo 360 grados: el colaborador recibe feedback de su gestor directo, de sus pares (colegas de la misma jerarquía), de liderados (si es gestor) y realiza una autoevaluación. 
+
+Plan de Desarrollo Individual (PDI): Después de cada ciclo de evaluación, el gestor y el colaborador deben construir un PDI, definiendo metas de aprendizaje y habilidades a desarrollar para los próximos 6 meses. 
+
+Presupuesto para Educación (Presupuesto de Formación): Todo colaborador que supere el período de experiencia (90 días) tiene derecho a un presupuesto anual de R$ 3.000,00 (tres mil reales) para invertir en su carrera. 
+
+Este valor se puede utilizar para cursos en línea, certificaciones de tecnología, talleres, libros técnicos o entradas para conferencias. La solicitud del reembolso debe ser aprobada por el gestor antes de la compra.
+
+11. PARTICIPACIÓN EN LOS BENEFICIOS Y RESULTADOS (PLR)
+La empresa comparte su éxito financiero con el equipo a través del programa PLR. 
+
+El pago de la PLR está condicionado al logro de las metas globales de facturación y EBITDA de ChocolaTech, así como a las metas individuales del colaborador definidas en el ciclo de evaluación.
+
+El bono objetivo estándar es equivalente a 2 (dos) salarios nominales del empleado. El pago se realiza anualmente, siempre en la nómina del mes de abril del año siguiente al ejercicio evaluado. Los colaboradores admitidos a mitad de año reciben el valor proporcional a los meses trabajados.
+
+12. POLÍTICA DE VIAJES CORPORATIVOS Y REEMBOLSO DE GASTOS
+Cuando haya necesidad de viaje por trabajo, el colaborador debe solicitar la emisión de pasajes y reserva de hotel al sector de Facilities con al menos 15 días de antelación.
+
+La empresa paga los billetes de avión en clase económica y el alojamiento en hoteles asociados de categoría ejecutiva (estándar 3 a 4 estrellas).
+
+Diaria de Viaje (Per Diem): El colaborador en viaje nacional recibe una ayuda de coste de R$ 200,00 por día para gastos de alimentación y pequeños desplazamientos no cubiertos por aplicaciones de transporte corporativo. 
+
+Los valores que excedan este límite deben ser justificados y dependen de la aprobación de la junta para el reembolso.
+
+Transporte: Para desplazamientos entre aeropuerto/hotel/cliente, se debe utilizar el perfil corporativo de la aplicación Uber o 99.
+
+Reembolso: Los gastos adicionales autorizados deben registrarse en el portal ERP de la empresa dentro de 5 días hábiles después del regreso del viaje, acompañados obligatoriamente de facturas válidas. 
+
+El reembolso se abonará en la cuenta bancaria del empleado dentro de los 10 días hábiles posteriores a la aprobación.
+
+13. RESCISIÓN Y RESCISIÓN DEL CONTRATO
+En caso de que el colaborador decida dejar ChocolaTech, debe comunicar formalmente a su gestor directo y al RH por correo electrónico, redactando su Carta de Dimisión.
+
+Aviso previo: La política estándar requiere el cumplimiento de 30 días de aviso previo trabajado. La dispensa del cumplimiento de la notificación previa por parte de la empresa quedará a criterio exclusivo del gestor del área, dependiendo de la necesidad de transferencia de conocimientos.
+
+Devolución de Equipos: El último día de trabajo, el empleado debe entregar al RH/TI todos los equipos, pases y tarjetas corporativas.
+
+Entrevista de Despido (Offboarding): El RH conducirá una entrevista confidencial de despido para entender los motivos del retiro y recoger feedbacks de mejora para la empresa.
+
+El pago de las indemnizaciones por rescisión se realizará en un plazo máximo de 10 (diez) días contados a partir del último día de trabajo (término del preaviso), conforme a la legislación laboral vigente.

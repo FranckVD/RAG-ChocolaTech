@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="https://cdn-icons-png.flaticon.com/512/4712/4712109.png">
+
+    <title>HR Buddy - ChocolaTech</title>
+    
+    <!-- Frameworks & Libs -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body class="bg-[#0f172a] text-slate-200 h-screen flex overflow-hidden">
+
+    <!-- Login Overlay (Professional Version) -->
+    <div id="login-modal" class="fixed inset-0 z-50 flex items-center justify-center login-overlay hidden">
+        <div class="bg-[#1e293b] p-8 rounded-3xl border border-slate-700 shadow-2xl max-w-md w-full mx-4">
+            <div class="flex justify-center mb-6">
+                <div class="w-16 h-16 bg-indigo-500 rounded-2xl flex items-center justify-center text-white shadow-lg shadow-indigo-500/20">
+                    <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" alt="Logo" class="w-10 h-10" />
+                </div>
+            </div>
+            <h2 class="text-2xl font-bold text-white mb-2 text-center">Bienvenido</h2>
+            <p class="text-slate-400 text-sm mb-6 text-center">Accede con tus credenciales corporativas.</p>
+            
+            <form id="login-form" onsubmit="event.preventDefault(); login();" class="space-y-4">
+                <div>
+                    <label class="text-xs font-semibold text-slate-500 uppercase ml-1">Nombre o Email</label>
+                    <input id="login-user" type="text" placeholder="Ej: Juan Silva" required
+                           class="w-full bg-[#0f172a] border border-slate-700 rounded-xl px-4 py-3 text-white focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-all">
+                </div>
+                <div>
+                    <label class="text-xs font-semibold text-slate-500 uppercase ml-1">Contraseña</label>
+                    <input id="login-password" type="password" placeholder="••••••••" required
+                           class="w-full bg-[#0f172a] border border-slate-700 rounded-xl px-4 py-3 text-white focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-all">
+                </div>
+                <button type="submit" 
+                        class="w-full bg-indigo-500 hover:bg-indigo-600 text-white font-bold py-3 rounded-xl transition-all active:scale-95 shadow-lg shadow-indigo-500/20 mt-2">
+                    Iniciar Sesión
+                </button>
+            </form>
+            <p class="mt-6 text-[10px] text-slate-500 text-center uppercase tracking-widest">Sistema Protegido por ChocolaTech IT</p>
+        </div>
+    </div>
+
+    <!-- Sidebar -->
+    <div class="hidden md:flex flex-col w-64 bg-[#1e293b] border-r border-slate-700 p-6">
+        <div class="flex items-center gap-3 mb-10">
+            <div class="w-10 h-10 bg-indigo-500 rounded-xl flex items-center justify-center text-white font-bold text-xl shadow-lg shadow-indigo-500/20">
+                <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" alt="Chatbot" class="w-6 h-6" />
+            </div>
+            <span class="font-bold text-xl tracking-tight text-white">HR Buddy</span>
+        </div>
+        
+        <nav class="space-y-1">
+            <a href="#" class="flex items-center gap-3 px-3 py-2 bg-indigo-500/10 text-indigo-400 rounded-lg border border-indigo-500/20">
+                <i class="fas fa-comment-dots"></i>
+                <span class="font-medium">Asistente</span>
+            </a>
+            <div class="pt-4 px-3 text-[10px] font-bold text-slate-500 uppercase tracking-widest">Información</div>
+            <div class="px-3 py-2 text-xs text-slate-400">Este asistente tiene acceso al manual v2.4 y tu perfil personal.</div>
+        </nav>
+
+        <div class="mt-auto pt-6 border-t border-slate-700">
+            <div class="flex items-center gap-3 px-1">
+                <div class="w-10 h-10 rounded-full bg-slate-700 flex items-center justify-center text-slate-300">
+                    <i class="fas fa-user-circle text-2xl"></i>
+                </div>
+                <div class="overflow-hidden">
+                    <p id="display-name" class="text-sm font-semibold truncate text-white">Invitado</p>
+                    <button onclick="logout()" class="text-[10px] text-slate-500 hover:text-red-400 transition-colors flex items-center gap-1">
+                        <i class="fas fa-sign-out-alt"></i> Cerrar sesión
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Chat Area -->
+    <div class="flex-1 flex flex-col relative">
+        <header class="h-16 flex items-center justify-between px-6 border-b border-slate-700 bg-[#0f172a]/80 backdrop-blur-sm z-10">
+            <div class="flex items-center gap-3">
+                <div class="flex flex-col">
+                    <h2 class="font-semibold text-white leading-tight">Canal Privado</h2>
+                    <div class="flex items-center gap-2">
+                        <span class="w-2 h-2 bg-emerald-500 rounded-full animate-pulse"></span>
+                        <span class="text-[10px] text-slate-400 font-medium">IA Conectada • Gemini 2.5 Flash</span>
+                    </div>
+                </div>
+            </div>
+            <div class="flex items-center gap-2">
+                <span class="px-2 py-0.5 bg-indigo-500/10 text-indigo-400 text-[10px] font-bold rounded-full border border-indigo-500/20 uppercase tracking-widest">AES-256</span>
+            </div>
+        </header>
+
+        <main id="chat-container" class="flex-1 overflow-y-auto p-6 space-y-6 scroll-smooth">
+            <!-- Bot Welcome -->
+            <div class="flex gap-3 mb-4">
+                <div class="w-8 h-8 rounded-lg bg-indigo-500 flex-shrink-0 flex items-center justify-center text-white text-[10px] mt-1">
+                    <i class="fas fa-robot"></i>
+                </div>
+                <div class="chat-bubble items-start flex-1">
+                    <div class="chat-bubble-content bg-[#1e293b] p-3.5 rounded-2xl rounded-tl-none border border-slate-700 text-slate-300 text-sm leading-relaxed shadow-sm">
+                        ¡Hola! Soy tu agente HR Buddy. He verificado tu sesión segura. ¿Necesitas ayuda respecto a tus beneficios o el manual de la empresa?
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <footer class="p-6">
+            <div class="max-w-4xl mx-auto flex flex-col gap-4">
+                <div class="flex gap-4 items-end bg-[#1e293b] p-2 rounded-2xl border border-slate-700 shadow-2xl focus-within:border-indigo-500/50 transition-all">
+                    <div class="flex-1 relative">
+                        <textarea id="user-input" rows="1" placeholder="Haz una pregunta sobre vacaciones, políticas..." 
+                               class="w-full bg-transparent border-none rounded-xl px-4 py-2 text-white focus:outline-none text-sm resize-none min-h-[44px] max-h-32 overflow-y-auto"></textarea>
+                    </div>
+                    <button onclick="enviarPregunta()" id="send-button" class="bg-indigo-500 hover:bg-indigo-600 text-white w-11 h-11 rounded-xl flex items-center justify-center transition-all active:scale-95 shadow-lg shadow-indigo-500/20 flex-shrink-0">
+                        <i class="fas fa-paper-plane"></i>
+                    </button>
+                </div>
+                <div class="text-center text-[10px] text-slate-500 flex justify-center gap-4">
+                    <span>Propiedad de ChocolaTech</span>
+                    <span class="text-slate-700">|</span>
+                    <a href="https://www.flaticon.es/iconos-gratis/chatbot" title="chatbot iconos" class="attribution-link">Iconos por Freepik</a>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Contenedor de Notificaciones -->
+    <div id="notification-container" class="fixed top-6 right-6 z-[60] flex flex-col gap-3"></div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+[project]
+name = "myrag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "chromadb>=1.5.9",
+    "fastapi>=0.136.1",
+    "google-genai>=2.4.0",
+    "pydantic>=2.13.4",
+    "python-jose[cryptography]>=3.3.0",
+    "passlib[bcrypt]>=1.7.4",
+    "python-multipart>=0.0.9",
+    "uvicorn>=0.23.2",
+    "langchain-text-splitters>=1.1.2",
+]
