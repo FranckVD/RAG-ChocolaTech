@@ -94,7 +94,7 @@ uv run python -m src.main
 ```
 La aplicación estará disponible en `http://localhost:8000`.
 
-<img src="./assets/HR%20BUDDY.gif" width="800" alt="HR BUDDY" />
+<img src="./assets/HR BUDDY.gif" width="800" alt="HR BUDDY" />
 
 ## 👥 Credenciales de Prueba
 Para probar el sistema, puedes usar los datos de los empleados registrados en la base de datos (Formato de contraseña: `Chocola![Año][Nombre]`), al iniciar la app por primera vez se generarán pero de igual forma aquí te los dejo:
